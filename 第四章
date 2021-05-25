@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:21:07.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" version="14.7.0" etag="0GE2knCojLkCIH0e1kJc" type="github"><diagram id="rggXinfcfxA6Z3gXdcDK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:59:58.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="p_MHg5FCPvKh-BSzSNEc" version="14.7.0" type="github">
+  <diagram id="rggXinfcfxA6Z3gXdcDK" name="Page-1">
+    <mxGraphModel dx="1038" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-2" value="获取任务目标列表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#666666;fontColor=#333333;fillColor=#FCFCFC;" vertex="1" parent="1">
+          <mxGeometry x="435" y="390" width="235" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-6" target="LU7c4haZxFE9qO-tFxkj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-6" value="获取状态和任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466.25" y="450" width="167.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-7" target="LU7c4haZxFE9qO-tFxkj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-7" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#cc0000&quot;&gt;&lt;b&gt;Meta-controller&lt;/b&gt;&lt;/font&gt;&lt;br&gt;为AGV生成任务子目标" style="rounded=1;whiteSpace=wrap;fontSize=18;verticalAlign=middle;horizontal=1;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="520" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-9" value="&lt;font color=&quot;#cc0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;controller&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 18px&quot;&gt;为每个AGV生成动作，并计算内部奖励" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="630" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-11" value="AGV&amp;nbsp; ROBOT" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fillColor=#DEE9FF;" vertex="1" parent="1">
+          <mxGeometry x="531" y="405" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-14" target="LU7c4haZxFE9qO-tFxkj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-14" value="得到所有AGV联合动作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="710" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-15" target="LU7c4haZxFE9qO-tFxkj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-15" value="与环境交互" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="890" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-17" value="得到下一个状态和外部奖励" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-5" target="LU7c4haZxFE9qO-tFxkj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="690" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LU7c4haZxFE9qO-tFxkj-22" value="" style="endArrow=classic;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LU7c4haZxFE9qO-tFxkj-17" target="LU7c4haZxFE9qO-tFxkj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="750" as="sourcePoint" />
+            <mxPoint x="750" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="756" />
+              <mxPoint x="553" y="756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
