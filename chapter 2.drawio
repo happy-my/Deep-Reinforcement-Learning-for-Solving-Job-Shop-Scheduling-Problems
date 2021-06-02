@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T10:45:52.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="2otfod6QiX62etzQDw7a" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T10:45:59.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="L3AlH8Amwbei835xo_Uk" version="14.7.3" type="github">
   <diagram id="IpWONe0lW_O0FwHwmjcl" name="Page-1">
     <mxGraphModel dx="865" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="Q33X_0vtCbviZvREUbf4-95" value="软更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="1917" y="740" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q33X_0vtCbviZvREUbf4-99" value="环&amp;nbsp; 境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="Q33X_0vtCbviZvREUbf4-99" value="&lt;font color=&quot;#000066&quot;&gt;环&amp;nbsp; 境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="2089" width="183" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Q33X_0vtCbviZvREUbf4-100" value="策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=none;" parent="1" vertex="1">
